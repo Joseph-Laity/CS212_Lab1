@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Homework 2</title>
+	</head>
 
+	<body>
+		<article>
+			<h1>The Effect of Contactless Payment on Compulsice Spending</h1>
+			<p>
+					For a very long time, the only way to buy something was with cold hard cash. 
+				Fast-forward to the present day and you’ll find that people buy things through the tap 
+				of their phone or the swipe of their cards. Over a relatively short period, money evolved 
+				and transformed to make transactions easier and more secure. We've gone from cash to credit/debit
+				cards to virtual forms of those cards. Each of these advancements has not only made purchases 
+				easier but has made them faster. I believe that the efficiency of contactless payment has had 
+				a massive effect on compulsive spending.
+			</p>
+		</article>
+	</body>
+</html>
